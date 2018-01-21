@@ -11,8 +11,7 @@ int main(int argc, char **argv)
 
 	    if(isalnum(c))
 	      printf("%c", c);
-     else
-	      c = fgetc(stdin);
+	    c = fgetc(stdin);
    }
 
    return 1;
