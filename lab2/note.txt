@@ -1,2 +1,9 @@
 piping colored output by grep through cat tail etc.
 removes the colors. Search about can I pipe with the color information
+
+`ps -Heo pid,ppid,user,state,command`
+
+in the above command the lab sheet states that i will be able to see the
+environmental variable under the command coloumn. but i am not able to see
+somehow please have a look once.
+
