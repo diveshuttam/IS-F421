@@ -1,0 +1,2 @@
+piping colored output by grep through cat tail etc.
+removes the colors. Search about can I pipe with the color information
