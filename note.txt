@@ -1,2 +1,0 @@
-what is the concept of static variables across 
-processes, do they remain the same????
